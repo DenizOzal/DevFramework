@@ -6,7 +6,9 @@
 
   <ItemGroup>
     <PackageReference Include="EntityFramework" Version="6.4.4" />
+    <PackageReference Include="fluentvalidation" Version="10.3.3" />
     <PackageReference Include="NHibernate" Version="5.3.9" />
+    <PackageReference Include="PostSharp" Version="6.9.8" />
   </ItemGroup>
 
 </Project>
